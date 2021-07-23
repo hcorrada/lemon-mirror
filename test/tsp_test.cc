@@ -19,7 +19,7 @@
 #include <iostream>
 
 #include <lemon/full_graph.h>
-#include <lemon/math.h>
+#include <lemon/lmath.h>
 #include <lemon/maps.h>
 #include <lemon/random.h>
 #include <lemon/dim2.h>

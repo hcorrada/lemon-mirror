@@ -27,7 +27,7 @@
 #include <lemon/concepts/graph.h>
 #include <lemon/concepts/maps.h>
 #include <lemon/lgf_reader.h>
-#include <lemon/math.h>
+#include <lemon/lmath.h>
 
 #include "test_tools.h"
 

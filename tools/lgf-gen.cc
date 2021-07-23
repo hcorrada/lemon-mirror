@@ -41,7 +41,7 @@
 #include <lemon/lgf_writer.h>
 #include <lemon/arg_parser.h>
 #include <lemon/euler.h>
-#include <lemon/math.h>
+#include <lemon/lmath.h>
 #include <lemon/kruskal.h>
 #include <lemon/time_measure.h>
 
