@@ -23,11 +23,11 @@
 ///\file
 ///\brief The concept of directed graphs.
 
-#include <lemon/core.h>
-#include <lemon/concepts/maps.h>
-#include <lemon/concept_check.h>
-#include <lemon/concepts/graph_components.h>
-#include <lemon/bits/stl_iterators.h>
+#include "lemon/core.h"
+#include "lemon/concepts/maps.h"
+#include "lemon/concept_check.h"
+#include "lemon/concepts/graph_components.h"
+#include "lemon/bits/stl_iterators.h"
 
 namespace lemon {
   namespace concepts {

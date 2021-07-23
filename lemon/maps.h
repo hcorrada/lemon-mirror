@@ -24,8 +24,8 @@
 #include <vector>
 #include <map>
 
-#include <lemon/core.h>
-#include <lemon/bits/stl_iterators.h>
+#include "lemon/core.h"
+#include "lemon/bits/stl_iterators.h"
 
 ///\file
 ///\ingroup maps

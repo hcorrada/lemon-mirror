@@ -22,10 +22,10 @@
 ///\file
 ///\brief VF2 algorithm \cite cordella2004sub.
 
-#include <lemon/core.h>
-#include <lemon/concepts/graph.h>
-#include <lemon/bfs.h>
-#include <lemon/bits/vf2_internals.h>
+#include "lemon/core.h"
+#include "lemon/concepts/graph.h"
+#include "lemon/bfs.h"
+#include "lemon/bits/vf2_internals.h"
 
 #include <vector>
 

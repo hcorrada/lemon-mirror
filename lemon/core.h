@@ -34,7 +34,7 @@
 // C4800: 'type' : forcing value to bool 'true' or 'false' (performance warning)
 // C4996: 'function': was declared deprecated
 
-#include <lemon/config.h>
+#include "lemon/config.h"
 
 #ifdef _MSC_VER
 #pragma warning( disable : 4250 4267 4355 4503 4800 4996 )
@@ -48,9 +48,9 @@
 #include <vector>
 #include <algorithm>
 
-#include <lemon/bits/enable_if.h>
-#include <lemon/bits/traits.h>
-#include <lemon/assert.h>
+#include "lemon/bits/enable_if.h"
+#include "lemon/bits/traits.h"
+#include "lemon/assert.h"
 
 
 

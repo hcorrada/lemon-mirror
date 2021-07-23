@@ -26,9 +26,9 @@
 
 #include <vector>
 #include <limits>
-#include <lemon/core.h>
-#include <lemon/maps.h>
-#include <lemon/bin_heap.h>
+#include "lemon/core.h"
+#include "lemon/maps.h"
+#include "lemon/bin_heap.h"
 
 namespace lemon {
 

@@ -22,7 +22,7 @@
 #include <string>
 #include <iostream>
 
-#include <lemon/core.h>
+#include "lemon/core.h"
 
 ///\ingroup timecount
 ///\file

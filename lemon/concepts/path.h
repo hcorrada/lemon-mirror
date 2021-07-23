@@ -24,9 +24,9 @@
 #ifndef LEMON_CONCEPTS_PATH_H
 #define LEMON_CONCEPTS_PATH_H
 
-#include <lemon/core.h>
-#include <lemon/concept_check.h>
-#include <lemon/bits/stl_iterators.h>
+#include "lemon/core.h"
+#include "lemon/concept_check.h"
+#include "lemon/bits/stl_iterators.h"
 
 namespace lemon {
   namespace concepts {

@@ -22,9 +22,9 @@
 ///\file
 ///\brief VF2 Plus Plus algorithm.
 
-#include <lemon/core.h>
-#include <lemon/concepts/graph.h>
-#include <lemon/bits/vf2_internals.h>
+#include "lemon/core.h"
+#include "lemon/concepts/graph.h"
+#include "lemon/bits/vf2_internals.h"
 
 #include <vector>
 #include <algorithm>

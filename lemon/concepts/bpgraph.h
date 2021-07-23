@@ -23,11 +23,11 @@
 #ifndef LEMON_CONCEPTS_BPGRAPH_H
 #define LEMON_CONCEPTS_BPGRAPH_H
 
-#include <lemon/concepts/graph_components.h>
-#include <lemon/concepts/maps.h>
-#include <lemon/concept_check.h>
-#include <lemon/core.h>
-#include <lemon/bits/stl_iterators.h>
+#include "lemon/concepts/graph_components.h"
+#include "lemon/concepts/maps.h"
+#include "lemon/concept_check.h"
+#include "lemon/core.h"
+#include "lemon/bits/stl_iterators.h"
 
 namespace lemon {
   namespace concepts {

@@ -4,7 +4,7 @@
 #ifndef STL_ITERATORS_H_
 #define STL_ITERATORS_H_
 
-#include <lemon/core.h>
+#include "lemon/core.h"
 
 namespace lemon {
 

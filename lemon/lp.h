@@ -23,19 +23,19 @@
 
 
 #if LEMON_DEFAULT_LP == LEMON_GLPK_ || LEMON_DEFAULT_MIP == LEMON_GLPK_
-#include <lemon/glpk.h>
+#include "lemon/glpk.h"
 #endif
 #if LEMON_DEFAULT_LP == LEMON_CPLEX_ || LEMON_DEFAULT_MIP == LEMON_CPLEX_
-#include <lemon/cplex.h>
+#include "lemon/cplex.h"
 #endif
 #if LEMON_DEFAULT_LP == LEMON_SOPLEX_
-#include <lemon/soplex.h>
+#include "lemon/soplex.h"
 #endif
 #if LEMON_DEFAULT_LP == LEMON_CLP_
-#include <lemon/clp.h>
+#include "lemon/clp.h"
 #endif
 #if LEMON_DEFAULT_MIP == LEMON_CBC_
-#include <lemon/cbc.h>
+#include "lemon/cbc.h"
 #endif
 
 ///\file

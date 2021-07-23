@@ -23,8 +23,8 @@
 ///\file
 ///\brief CompactDigraph class.
 
-#include <lemon/core.h>
-#include <lemon/bits/graph_extender.h>
+#include "lemon/core.h"
+#include "lemon/bits/graph_extender.h"
 
 #include <algorithm>
 
